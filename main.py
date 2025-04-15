@@ -9,11 +9,11 @@ def main():
         choice = input("> ")
 
         if choice == "1":
-            print("メンバー1のコメント")
+            print("こんばんは")
         elif choice == "2":
-            print("メンバー2のコメント")
+            print("よろしくおねがいします")
         elif choice == "3":
-            print("メンバー3のコメント")
+            print("そろそろ寝ようかな")
         elif choice == "q":
             print("プログラムを終了します。")
             break
